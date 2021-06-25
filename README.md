@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @debapratim1234
+- 👋 Hi, I’m Debapratim
 - 👀 I’m interested in Data Science and Machine Learning concepts
 - 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on NLP techniques
 - 📫 How to reach me https://linkedin.com/in/dgupta1234/
 
 <!---
